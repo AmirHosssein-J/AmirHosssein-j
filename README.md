@@ -62,7 +62,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Amirhosssein-j/Amirhosssein-j/output/snake.svg" alt="Snake animation" />
-
-###
